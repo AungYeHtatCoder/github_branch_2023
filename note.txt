@@ -1,0 +1,6 @@
+1 - git branch -> (list exsting branches - donotes the current branch)
+2 - git checkout -b first_developer -> (create a new branch and switch into it)
+
+3 - git branch -> (to recheck created branch)
+4 - touch first_developer.html (create new file)
+5 - echo. > first_developer.html (to create new file -> using cmd)
